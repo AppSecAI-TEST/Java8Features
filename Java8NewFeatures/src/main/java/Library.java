@@ -3,10 +3,10 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+    return true;
     }
 	
 	public int someLibraryMethod() {
-        return true;
+    return true;
     }
 }

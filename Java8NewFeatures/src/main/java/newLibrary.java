@@ -6,11 +6,5 @@ public class Library {
     return true;
     }
 	
-	public int someLibraryMethod() {
-    return true;
-    }
 	
-	public int someLibraryMethod2() {
-    return true;
-    }
 }
